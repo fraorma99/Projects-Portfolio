@@ -30,10 +30,11 @@ Projects typically include:
 
 | Project | Tools | Description |
 |--------|-------|-------------|
-| `wine-analysis` | Python, Pandas, Plotly | Exploratory data analysis on wine quality dataset |
-| `global-energy-sql` | PostgreSQL | Advanced SQL queries on global energy sustainability indicators |
-| `sales-dashboard` | Tableau | Interactive dashboard for fictional e-commerce sales |
-| `covid-trends` | Excel, Power Query | Trend analysis of COVID-19 infection data |
+| `Wine reviews` | Python, Pandas, NumPy, Matplotlib, Plotly | Exploratory data analysis on wine quality dataset |
+| `Fashion catalogue` | Python | Exploratory data analysis on wine quality dataset |
+| `Global Energy SQL` | pgAdmin | Advanced SQL queries on global energy sustainability indicators |
+| `/` | Tableau | Work in progress, soon available... |
+| `Travel Agency` | Excel | Data analysis on sales of travel packages |
 
 > More details are available inside each project folder.
 
