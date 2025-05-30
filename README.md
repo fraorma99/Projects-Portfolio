@@ -31,7 +31,7 @@ Projects typically include:
 | Project | Tools | Description |
 |--------|-------|-------------|
 | `Wine reviews` | Python, Pandas, NumPy, Matplotlib, Plotly | Exploratory data analysis on wine quality dataset |
-| `Fashion catalogue` | Python | Exploratory data analysis on wine quality dataset |
+| `Fashion catalogue` | Python | Small clothing e-commerce protoype |
 | `Global Energy SQL` | pgAdmin | Advanced SQL queries on global energy sustainability indicators |
 | `Global Happiness Analysis` | Tableau | An interactive Tableau project visualizing global happiness levels and trends from 2015 to 2019.|
 | `Travel Agency` | Excel | Data analysis on sales of travel packages |
