@@ -21,10 +21,11 @@ The portfolio is constantly being developed and updated with projects carried ou
 Projects typically include:
 
 - Raw and cleaned datasets (`.csv`, `.xlsx`, or `.sql`)
-- Python scripts or Jupyter Notebooks for analysis (`.py`, `.ipynb`)
+- Python scripts on Colab or Jupyter Notebooks for analysis (`.py`, `.ipynb`)
 - SQL queries
 - Tableau dashboards (linked or exported)
 - Project summaries in PDF or Markdown format
+- ML implementations (linear/logistic regression, decision trees, random forest, K-mean clustering)
 
 ## 📌 Highlights
 
