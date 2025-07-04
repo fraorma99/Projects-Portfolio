@@ -33,8 +33,9 @@ Projects typically include:
 | `Wine reviews` | Python, Pandas, NumPy, Matplotlib, Plotly | Exploratory data analysis on wine quality dataset |
 | `Fashion catalogue` | Python | Small clothing e-commerce protoype |
 | `Global Energy SQL` | pgAdmin | Advanced SQL queries on global energy sustainability indicators |
-| `Global Happiness Analysis` | Tableau | An interactive Tableau project visualizing global happiness levels and trends from 2015 to 2019.|
+| `Global Happiness Analysis` | Tableau | An interactive Tableau project visualizing global happiness levels and trends from 2015 to 2019|
 | `Travel Agency` | Excel | Data analysis on sales of travel packages |
+| `Yoga Classes` | Python & Tableau | Complete data-driven yoga app analysis, featuring ML models and strategic insights |
 
 > More details are available inside each project folder.
 
